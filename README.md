@@ -3,6 +3,7 @@
 > [!NOTE]  
 > Данный репозиторий - **некоммерческая** *User-Friendly* сборка [репозитория от FlowSeal](https://github.com/Flowseal/zapret-discord-youtube). Здесь используются оригинальные бинарники, сравнить которые вы можете с помощью хэша.
 > Так как zapret open-source, вы всегда можете сами собрать эти бинарники и не бояться вирусов.
+> **Чтобы у вас работал обход CloudFlare, запускайте general(FIXED).**
 > 
 > **Спасибо, [bol-van](https://github.com/bol-van), за zapret!**
 
