@@ -1,10 +1,14 @@
-# Zapret (обход блокировки Discord, Youtube и CloudFlare)
+# Zapret (обход блокировки почти на всё)
 
 > [!NOTE]  
 > Данный репозиторий - **некоммерческая** *User-Friendly* сборка [репозитория от FlowSeal](https://github.com/Flowseal/zapret-discord-youtube). Здесь используются оригинальные бинарники, сравнить которые вы можете с помощью хэша.
 > Так как zapret open-source, вы всегда можете сами собрать эти бинарники и не бояться вирусов.
 >
-> **Чтобы у вас работал обход CloudFlare, запускайте general (FIXED).bat**
+> Имеется 4 вида обхода: ONLY IP, IP и HOST, ONLY HOST и FULL BYPASS.
+> 
+> РЕКОМЕНДУЮ ИСПОЛЬЗОВАТЬ general(ONLY-IP) ИЛИ general(FULL-BYPASS)!!!
+>
+> Названия соответствуют функциям: ONLY IP - Только IP; ONLY HOST - Только адреса сайтов из list-general.txt; IP и HOST - понятно какой обход; Ну и FULL BYPASS - Обход почти всего!
 > 
 > **Спасибо, [bol-van](https://github.com/bol-van), за zapret!**
 
