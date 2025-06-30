@@ -6,7 +6,7 @@
 >
 > Имеется 4 вида обхода: ONLY IP, IP и HOST, ONLY HOST и FULL BYPASS.
 > 
-> РЕКОМЕНДУЮ ИСПОЛЬЗОВАТЬ general(ONLY-IP) ИЛИ general(FULL-BYPASS)!!!
+> РЕКОМЕНДУЮ ИСПОЛЬЗОВАТЬ general(ONLY-IP) / general(FULL-BYPASS) / general(FULL-BYPASS + EXCLUDE) / general(IP + HOST)!!!
 >
 > Названия соответствуют функциям: ONLY IP - Только IP; ONLY HOST - Только адреса сайтов из list-general.txt; IP и HOST - понятно какой обход; Ну и FULL BYPASS - Обход почти всего!
 > 
