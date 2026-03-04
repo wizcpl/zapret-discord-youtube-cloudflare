@@ -36,7 +36,6 @@ discord-attachments-uploads-prd.storage.googleapis.com
 cloudflare-ech.com
 cloudflare.com
 *.ns.cloudflare.com
-rutracker.org
-td.doubleclick.net
-securepubads.g.doubleclick.net
-5352434.fls.doubleclick.net
+a.nel.cloudflare.com
+challenges.cloudflare.com
+static.cloudflareinsights.com
